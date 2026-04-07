@@ -16,5 +16,9 @@ Mixture of Gaussian Prompt Geometric Adjustment for Zero-Shot Industrial Anomaly
 <img src="Overview of GPGA.jpg" width="80%" alt="GPGA framework">
 </p>
 
+##  News
+- 2026-02-05: Submitted to Journal of King Saud University Computer and Information Sciences
+- The paper is currently under review. The code will be made available upon acceptance.
+- 
 ##  Acknowledgements
 Our repository is built upon [AdaCLIP](https://github.com/caoyunkang/AdaCLIP), [AnomalyCLIP](https://github.com/zqhang/AnomalyCLIP). We thank to all the authors for their awesome works.
