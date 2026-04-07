@@ -13,10 +13,14 @@ Mixture of Gaussian Prompt Geometric Adjustment for Zero-Shot Industrial Anomaly
 
 ## Overview of GPGA
 <p align="center">
-<img src="result.png" width="80%" alt="GPGA result">
+<img src="Overview of GPGA.jpg" width="80%" alt="GPGA framework">
 </p>
 
 ## Main Results
+<p align="center">
+<img src="result.png" width="80%" alt="GPGA result">
+</p>
+
 <p align="center">
 <img src="result-1.png" width="80%" alt="GPGA-1">
 </p>
