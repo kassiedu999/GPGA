@@ -4,7 +4,7 @@ Mixture of Gaussian Prompt Geometric Adjustment for Zero-Shot Industrial Anomaly
 ## Introduction
 
 <p align="center">
-  <img src="./images/Graphical-Abstract.jpg" width="80%" alt="GPGA framework">
+  <img src="Graphical-Abstract.jpg" width="80%" alt="GPGA framework">
 </p>
 
 <p align="justify">
